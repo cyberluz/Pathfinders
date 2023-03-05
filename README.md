@@ -5,7 +5,7 @@ A repository of the innovative and creative work done by the NM A.I. Academy Pat
 
 
 The Pathfinders are: 
-Ford Davis, Mentor, nex+Gen Academy
+Ford Davis, Mentor, nex+Gen Academy, 2nd time
 George Gorospe, NASA Ames Research Center
 
 
