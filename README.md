@@ -4,9 +4,15 @@
 A repository of the innovative and creative work done by the NM A.I. Academy Pathfinders, a team of students who will explore the capabilities of AI and ML, and lead the way for future students.
 
 
-The Pathfinders are: 
-Ford Davis, Mentor, nex+Gen Academy, last time
-George Gorospe, NASA Ames Research Center
+
+
+
+The Pathfinders are: <br> <!-- "<br> is line break and is used to end the line of text, so the next text goes on a new line -->
+<!-- STUDENTS: Please add your name below this line. FORMAT: First Last, nex+Gen Academy <br> -->
+
+Ford Davis, Mentor, nex+Gen Academy last time <br> 
+George Gorospe, NASA Ames Research Center<br>
+
 
 
 
